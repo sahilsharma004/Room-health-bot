@@ -1,0 +1,7 @@
+ Component               | ESP32 Pin  |         Description                           
+    
+| **DHT11 Sensor**       | GPIO 4     |         Data pin                              
+| **IR Sensor**          | GPIO 5     |   Digital object detection pin          
+| **OLED Display (SDA)** | GPIO 21    |         I2C data                              
+| **OLED Display (SCL)** | GPIO 22    |         I2C clock                             
+| **Power Supply**       | 3.3V & GND |  Powers DHT11 and IR sensor 
